@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="248.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="telas.estacionamento.TelaLogin">
+   <children>
+      <Button layoutX="98.0" layoutY="145.0" mnemonicParsing="false" text="Login" />
+      <Label layoutX="39.0" layoutY="65.0" text="Usuário" />
+      <Label layoutX="45.0" layoutY="113.0" text="Senha:" />
+      <TextField layoutX="98.0" layoutY="61.0" prefHeight="25.0" prefWidth="404.0" />
+      <TextField layoutX="98.0" layoutY="109.0" prefHeight="25.0" prefWidth="404.0" />
+      <Button layoutX="95.0" layoutY="193.0" mnemonicParsing="false" text="Cadastrar novo Usuário" />
+   </children>
+</AnchorPane>
